@@ -1,0 +1,13 @@
+[
+  {"name": "د. أحمد عودة", "specialty": "نسا وتوليد", "address": "أبو شوشة", "phone": "01000000000", "hours": "الكشف ~200ج", "open_24": false, "night": false},
+  {"name": "د. أحمد العرجاوي", "specialty": "نسا وتوليد", "address": "أبو شوشة", "phone": "01000000000", "hours": "اتصل للتأكيد", "open_24": false, "night": false},
+  {"name": "د. محمود احمد الغنام", "specialty": "انف واذن وحنجرة", "address": "أبو شوشة", "phone": "01000000000", "hours": "", "open_24": false, "night": false},
+  {"name": "د. عوض احمد النقيب", "specialty": "جراحة عامة", "address": "أبو شوشة", "phone": "01000000000", "hours": "", "open_24": false, "night": false},
+  {"name": "د. عبد الحميد خطاب", "specialty": "مسالك بولية", "address": "أبو شوشة", "phone": "01000000000", "hours": "", "open_24": false, "night": false},
+  {"name": "د. أشرف القاضي", "specialty": "اسنان", "address": "أبو شوشة", "phone": "01000000000", "hours": "", "open_24": false, "night": false},
+  {"name": "د. مصطفي محمود سعد", "specialty": "عظام", "address": "أبو شوشة", "phone": "01000000000", "hours": "الكشف ~200ج", "open_24": false, "night": false},
+  {"name": "د. أحمد السقا", "specialty": "مخ واعصاب", "address": "أبو شوشة", "phone": "01000000000", "hours": "الكشف ~200ج", "open_24": false, "night": false},
+  {"name": "د. أحمد الشاذلي", "specialty": "اسنان", "address": "شارع المحطة - فوق صيدلية النور", "phone": "01012345678", "hours": "10ص-10م", "open_24": false, "night": false},
+  {"name": "د. محمد عوض", "specialty": "اطفال", "address": "شارع المركز - بجوار المستشفى", "phone": "01098765432", "hours": "24 ساعة", "open_24": true, "night": true},
+  {"name": "د. سمير غانم", "specialty": "باطنة", "address": "شارع الجمهورية", "phone": "01011223344", "hours": "8م-2ص", "open_24": false, "night": true}
+]
